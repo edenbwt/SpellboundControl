@@ -1,0 +1,14 @@
+C:\Users\smurf\source\repos\SpellboundControl\SpellboundControl\obj\Debug\SpellboundControl.csproj.AssemblyReference.cache
+C:\Users\smurf\source\repos\SpellboundControl\SpellboundControl\obj\Debug\SpellboundControl.Main.resources
+C:\Users\smurf\source\repos\SpellboundControl\SpellboundControl\obj\Debug\SpellboundControl.Properties.Resources.resources
+C:\Users\smurf\source\repos\SpellboundControl\SpellboundControl\obj\Debug\SpellboundControl.csproj.GenerateResource.cache
+C:\Users\smurf\source\repos\SpellboundControl\SpellboundControl\obj\Debug\SpellboundControl.csproj.CoreCompileInputs.cache
+C:\Users\smurf\source\repos\SpellboundControl\SpellboundControl\bin\Debug\SpellboundControl.exe.config
+C:\Users\smurf\source\repos\SpellboundControl\SpellboundControl\bin\Debug\SpellboundControl.exe
+C:\Users\smurf\source\repos\SpellboundControl\SpellboundControl\bin\Debug\SpellboundControl.pdb
+C:\Users\smurf\source\repos\SpellboundControl\SpellboundControl\obj\Debug\SpellboundControl.exe
+C:\Users\smurf\source\repos\SpellboundControl\SpellboundControl\obj\Debug\SpellboundControl.pdb
+C:\Users\smurf\source\repos\SpellboundControl\SpellboundControl\obj\Debug\SpellboundControl.Forms.Location.resources
+C:\Users\smurf\source\repos\SpellboundControl\SpellboundControl\obj\Debug\SpellboundControl.Forms.Attack.resources
+C:\Users\smurf\source\repos\SpellboundControl\SpellboundControl\obj\Debug\SpellboundControl.Forms.ContactForm.resources
+C:\Users\smurf\source\repos\SpellboundControl\SpellboundControl\obj\Debug\SpellboundControl.Forms.Seveur_Setting.resources
